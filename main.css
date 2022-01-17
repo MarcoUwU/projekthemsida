@@ -1,28 +1,3 @@
-body {
-  background-image: url("/img/sweden.png");
-}
-
-.mybox1 {
-  background-color: #f2dd3b;
-  min-height: 200px;
-  margin: 20px 10px;
-  padding: 20px;
-}
-
-.mybox1 {
-  min-height: 350px;
-  margin: 20px;
-  padding: 20px;
-  align-items: center;
-}
-
-@media (max-width: 1200px) {
-  .hide1 {
-    display: none;
+.rubrik {
+  position:relative; nav-left: auto;
   }
-}
-@media (min-width: 1100px) {
-  .hide2 {
-    display: none;
-  }
-}/*# sourceMappingURL=main.css.map */
