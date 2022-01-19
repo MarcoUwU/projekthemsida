@@ -1,3 +1,66 @@
+.monkeybrain{
+    color: #17a2b8;
+}
+
+.img{
+    width: 30%;
+    height: auto;
+}
+
+h1{
+    font-family: decoy;
+    font-size: 1250%;
+    color: var(--big-text-color);
+}
+
+h5{
+font-family: superior title;
+
+}
+
+p{
+    font-family: roboto;
+}
+
+body {
+    background-color: var(--main-color);
+}
+
+.box-color{
+    background-color: var(--box-color);
+}
+
+.modal-color{
+    background-color: var(--modal-color);
+}
+
+
+.modal-color-topbottom{
+    background-color: var(--main-color)
+}
+
+.btn-color{
+    background-color: var(--box-color)
+}
+
+.colorgobr{
+    color: white;
+}
+
+.img-size{
+    width: 10%;
+    height: 10%;
+}
+
+:root {
+    --main-color: #DEAD68;
+    --big-text-color: #805E2F;
+    --box-color: #543E20 ;
+    --modal-color: #AB8146;
+}
+
+
+
 
     
     
