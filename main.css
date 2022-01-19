@@ -64,4 +64,26 @@ body {
   --big-text-color: #805E2F;
   --box-color: #543E20 ;
   --modal-color: #AB8146;
+}
+
+.container2 {
+  width: 80%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 7%;
+  height: auto;
+  transition: 0.5s ease;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+.container2:hover .image {
+  opacity: 0.3;
+}
+
+.container2:hover .middle {
+  opacity: 1;
 }/*# sourceMappingURL=main.css.map */

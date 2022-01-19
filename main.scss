@@ -15,7 +15,7 @@ h1{
 }
 
 h5{
-font-family: superior title;
+    font-family: superior title;
 
 }
 
@@ -69,7 +69,26 @@ body {
     --modal-color: #AB8146;
 }
 
+.container2 {
+    width: 80%;
+  }
 
+  .image {
+    opacity: 1;
+    display: block;
+    width: 7%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  .container2:hover .image {
+    opacity: 0.3;
+  }
+  
+  .container2:hover .middle {
+    opacity: 1;
+  }
 
 
     
