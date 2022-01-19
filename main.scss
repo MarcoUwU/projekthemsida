@@ -11,6 +11,9 @@ h1{
     font-family: decoy;
     font-size: 1250%;
     color: var(--big-text-color);
+    text-shadow: 1px 1px 2px black;
+
+
 }
 
 h5{
@@ -48,8 +51,12 @@ body {
 }
 
 .img-size{
-    width: 10%;
-    height: 10%;
+    width: 7%;
+    height: 7%;
+}
+
+.imgshadow{
+    box-shadow:(0px 10px 3px black);
 }
 
 :root {
