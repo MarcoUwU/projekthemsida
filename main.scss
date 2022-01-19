@@ -73,7 +73,7 @@ body {
     width: 80%;
   }
 
-  .image {
+.image {
     opacity: 1;
     display: block;
     width: 7%;
@@ -89,6 +89,15 @@ body {
   .container2:hover .middle {
     opacity: 1;
   }
+
+  .container3:hover .image {
+    opacity: 0.3;
+  }
+  
+  .container3:hover .middle {
+    opacity: 1;
+  }
+
 
 
     
