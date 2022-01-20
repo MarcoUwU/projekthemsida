@@ -1,5 +1,5 @@
 .monkeybrain {
-  color: var(--box-color);
+  color: #17a2b8;
 }
 
 .img {
@@ -15,18 +15,11 @@ h1 {
 }
 
 h5 {
-  font-family: decoy;
-  font-size: 2em;
-}
-
-strong {
-    font-size: 1.2em;
-    font-family: roboto;
+  font-family: superior title;
 }
 
 p {
   font-family: roboto;
-  
 }
 
 body {
@@ -101,4 +94,11 @@ body {
 
 .container3:hover .middle {
   opacity: 1;
+}
+
+.ogaboga {
+  margin-top: 22%;
+  margin-right: 20%;
+  font-family: decoy;
+  font-size: 160%;
 }/*# sourceMappingURL=main.css.map */
